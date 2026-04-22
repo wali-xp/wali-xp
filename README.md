@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-waliullah-b0aa84330)
 
-
+![Views](https://komarev.com/ghpvc/?username=wali-xp&color=blue&style=flat-square&label=PROFILE+VIEWS)
 ---
 
 ### 🚀 Professional Summary
