@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Md Waliullah
-**Data Analyst | Statistical Modeler | Python Developer**
+**Data Analyst | Statistical Modeler**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-waliullah-b0aa84330)
-[![Portfolio](https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wali-xp)
+
 
 ---
 
@@ -29,19 +29,13 @@ I am a dedicated **Data Analyst** based in New Delhi with a background in **Math
 #### 🐍 [Covid-19 Exploratory Data Analysis](https://github.com/wali-xp/python-case_study-Covid_19)
 *Extensive EDA using Python to track global trends, utilizing Pandas and Matplotlib for visual storytelling.*
 
-#### 🛒 [MySQL E-commerce Architecture](https://github.com/wali-xp/mysql-ecommerce-project)
+#### 🛒 [MySQL E-commerce](https://github.com/wali-xp/mysql-ecommerce-project)
 *End-to-end database design for an e-commerce platform, focusing on relational integrity and complex query optimization.*
 
-#### 📊 [Excel Sales Performance Dashboard](https://github.com/wali-xp/Excel-Sales-Dashboard)
+#### 📊 [Excel Sales Dashboard](https://github.com/wali-xp/Excel-Sales-Dashboard)
 *Advanced dynamic dashboarding featuring pivot tables, slicers, and KPI tracking for retail business growth.*
 
 ---
-
-### 📈 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wali-xp&show_icons=true&theme=tokyonight&count_private=true" alt="Wali's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wali-xp&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
 
 ---
 
