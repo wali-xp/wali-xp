@@ -7,6 +7,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 ![Views](https://komarev.com/ghpvc/?username=wali-xp&color=blue&style=flat-square&label=PROFILE+VIEWS)
 ---
+<p align="center">
+  <img src="https://your-link-to-canva-header.png" alt="Md Waliullah Header" width="100%">
+</p>
+
+<h1 align="center">Md Waliullah</h1>
+<p align="center"><b>Data Analyst | ------ | Mis------</b></p>
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/md-waliullah-b0aa84330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=wali-xp&color=blue&style=for-the-badge&label=Profile+Views">
+</p>
 
 ### 🚀 Professional Summary
 I am a dedicated **Data Analyst** based in New Delhi with a background in **Mathematics (B.Sc. Hons)**.I specialize in transforming raw datasets into strategic narratives using SQL, Python, and Power BI and Excel.
