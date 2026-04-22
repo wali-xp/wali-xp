@@ -16,10 +16,15 @@
 
 ## 🛠 Tech Stack
 
-### 📊 Data Analysis
+## 📊 Data Analysis
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=excel" height="50"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" height="50"/>
+</p>
+
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
 ### 🗄 Databases
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
@@ -37,17 +42,14 @@
 
 ## 🔥 Featured Projects
 
-### 📌 Sales Dashboard (Power BI)
-- Built interactive dashboard to track sales performance
-- Identified top-performing regions and trends
+### 📌 Covid-19 Project EDA (Python)
+https://github.com/wali-xp/python-case_study-Covid_19
 
-### 📌 SQL Data Analysis Project
-- Analyzed large dataset using joins, aggregations
-- Generated business insights from raw data
+### 📌MySQL E-commerce Project
+https://github.com/wali-xp/mysql-ecommerce-project
 
-### 📌 Excel Data Cleaning Project
-- Cleaned and transformed raw datasets
-- Used formulas, pivot tables for insights
+### 📌 Excel Sales Dashboard Project
+https://github.com/wali-xp/Excel-Sales-Dashboard
 
 ---
 
