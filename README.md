@@ -19,6 +19,30 @@
   <a href="https://linkedin.com/in/md-waliullah-b0aa84330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=wali-xp&color=blue&style=for-the-badge&label=Profile+Views">
 </p>
+<p align="center">
+  <img src="https://your-link-to-canva-header.png" alt="Md Waliullah Header" width="100%">
+</p>
+
+<h1 align="center">Md Waliullah</h1>
+<p align="center"><b>Data Analyst | Python Developer | Mathematical Modeler</b></p>
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/md-waliullah-b0aa84330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=wali-xp&color=blue&style=for-the-badge&label=Profile+Views">
+</p>
+
+---
+
+### 🚀 About Me
+I am a Data Analyst at **Tata Motors** with a B.Sc. in **Mathematics**. I specialize in turning complex data into actionable business intelligence.
+
+- 📊 Currently working on **XP SmartBill** (Inventory Management System).
+- 🐍 Expert in **Python, SQL, and Power BI**.
+- 📈 Certified by **Google** and **Deloitte** in Data Analytics.
+
+---
+
 
 ### 🚀 Professional Summary
 I am a dedicated **Data Analyst** based in New Delhi with a background in **Mathematics (B.Sc. Hons)**.I specialize in transforming raw datasets into strategic narratives using SQL, Python, and Power BI and Excel.
@@ -37,7 +61,11 @@ I am a dedicated **Data Analyst** based in New Delhi with a background in **Math
 | **Specialized** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 
 ---
-
+### 📊 GitHub Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=wali-xp&show_icons=true&theme=algolia&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wali-xp&layout=compact&theme=algolia&hide_border=true" width="45%">
+</p>
 ### 🔥 Featured Projects
 
 #### 🐍 [Covid-19 Exploratory Data Analysis](https://github.com/wali-xp/python-case_study-Covid_19)
