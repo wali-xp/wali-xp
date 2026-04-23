@@ -45,7 +45,8 @@ I am a dedicated **Data Analyst** based in New Delhi with a background in **Math
 <img src="https://github-readme-stats.vercel.app/api?username=wali-xp&show_icons=true&theme=algolia&hide_border=true" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wali-xp&layout=compact&theme=algolia&hide_border=true" width="45%">
 </p>
-### 🔥 Featured Projects
+---
+## 🛠️ Featured Analytics Projects
 
 #### 🐍 [Covid-19 Exploratory Data Analysis](https://github.com/wali-xp/python-case_study-Covid_19)
 *Extensive EDA using Python to track global trends, utilizing Pandas and Matplotlib for visual storytelling.*
