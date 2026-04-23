@@ -9,14 +9,14 @@
 </p>
 
 
-<h1 align="center">Md Waliullah</h1>
-<p align="center"><b>Data Analyst | ............ | ................. </b></p>
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=Data+Analyst;Python+Developer;Mathematical+Modeler" alt="Data Analyst" />
+</p>
 
 ### 🚀 About Me
-I am a Data Analyst at **Tata Motors** with a B.Sc. in **Mathematics**. I specialize in turning complex data into actionable business intelligence.
+I am a Data Analyst with a B.Sc. in **Mathematics**. I specialize in turning complex data into actionable business intelligence.
 
-- 📊 Currently working on **XP SmartBill** (Inventory Management System).
+
 - 🐍 Expert in **Python, SQL, and Power BI**.
 - 📈 Certified by **Google** and **Deloitte** in Data Analytics.
 
