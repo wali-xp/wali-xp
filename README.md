@@ -2,17 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=220&section=header&text=Md%20Waliullah&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=twinkle" width="100%">
 </p>
 ---
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-![Views](https://komarev.com/ghpvc/?username=wali-xp&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 
 ---
-<p align="center">
-  <img src="https://your-link-to-canva-header.png" alt="Md Waliullah Header" width="100%">
-</p>
 
-<h1 align="center">Md Waliullah</h1>
-<p align="center"><b>Data Analyst | ------ | Mis------</b></p>
+
 
 <p align="center">
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
