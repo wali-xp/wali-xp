@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Md Waliullah
-**Data Analyst | Statistical Modeler**
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Md%20Waliullah&fontSize=70&animation=fadeIn" width="100%">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-waliullah-b0aa84330)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=220&section=header&text=Md%20Waliullah&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=twinkle" width="100%">
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=220&section=header&text=Md%20Waliullah&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%">
 
