@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Waliullah
 **Data Analyst | Statistical Modeler**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Md%20Waliullah&fontSize=70&animation=fadeIn" width="100%">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-waliullah-b0aa84330)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
