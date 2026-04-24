@@ -27,7 +27,7 @@ I am a Data Analyst with a B.Sc. in **Mathematics**. I specialize in turning com
 I am a dedicated **Data Analyst** based in New Delhi with a background in **Mathematics (B.Sc. Hons)**.I specialize in transforming raw datasets into strategic narratives using SQL, Python, and Power BI and Excel.
 
 * 🎓 **Education:** B.Sc. in Mathematics, Vinoba Bhave University (2024).
-* 💡 **Core Strength:** Bridging the gap between complex mathematical logic and business intelligence.
+* 💡 **Core Strength:** Bridging the gap between complex mathematical logic and business intelligence
 
 ---
 
