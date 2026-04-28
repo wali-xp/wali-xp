@@ -17,7 +17,7 @@
 I am a Data Analyst with a B.Sc. in **Mathematics**. I specialize in turning complex data into actionable business intelligence.
 
 
-- 🐍 Expert in **Python, SQL, and Power BI**.
+- 🐍 Expert in **Python, SQL, Excel and Power BI**.
 - 📈 Certified by **Google** and **Deloitte** in Data Analytics.
 
 ---
